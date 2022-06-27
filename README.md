@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hello, I'm Chandra👋🏾👩🏾‍💻
 
-<!--
-**Chandrakeer/Chandrakeer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### 👨🏻‍💻  About Me
+<img alt="Night Coding" width="400" height = "250" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" align="right"/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 &nbsp;I'm currently pursuing a Bachelor's in Technology in Computer Science from the Sagar Institute of Science & Technology, Bhopal.
+- 💡 &nbsp;I enjoy working with frontend include HTML, CSS, JavaScript and Framework Django. Currently exploring Dart/Flutter.
+- 🌱 &nbsp;I'm on track for learning more about Problem Solving and Algorithms.
+- ⚡ Fun fact: I'm a big fan of Anime.
+- 👋 My hobbies are cooking, dancing, and photography
+- ✉️ &nbsp;How to reach me: chanchalkeer06@gmail.com.
+
+
+

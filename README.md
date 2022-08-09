@@ -8,7 +8,7 @@
 - 💡 &nbsp;I enjoy working with technologies including HTML, CSS, JavaScript and Django Framework. Currently exploring Dart/Flutter.
 - 🌱 &nbsp;I'm on track for learning more about Problem Solving and Algorithms.
 - ⚡ Fun fact: I'm a big fan of Anime.
-- 👋 My hobbies are cooking, dancing, and photography.
+- 👋 My hobbies are cooking, dancing, and online gaming.
 - ✉️ &nbsp;How to reach me: chanchalkeer06@gmail.com
 
 

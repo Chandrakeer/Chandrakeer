@@ -7,7 +7,6 @@
 
 - 🎓 &nbsp; Certified AWS Developer Associate, proficient in cloud-native development.
 - 💡 &nbsp; Passionate software developer specializing in Java, Android and AWS.
-- 💡 &nbsp; I'm a graduate with a Bachelor's in Technology in Computer Science.
 - 🌱 &nbsp; I'm on track for learning more about Problem Solving and Algorithms.
 - ⚡ Fun fact: I'm a big fan of Anime.
 - 👋 My hobbies are cooking, dancing, and online gaming.

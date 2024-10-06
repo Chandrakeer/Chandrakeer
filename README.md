@@ -1,4 +1,4 @@
-### Hello, I'm Chandra👋🏾👩🏾‍💻
+### Hello, I'm Chandra keer👋🏾👩🏾‍💻
 
 
 ### 👨🏻‍💻  About Me
